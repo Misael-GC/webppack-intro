@@ -5,6 +5,7 @@
 - Scripts en json
 - Uso de paquetes npm
 - Despliegue de página
+- Link del proyecto: https://misael-gc.github.io/webppack-intro/
 
 
 
