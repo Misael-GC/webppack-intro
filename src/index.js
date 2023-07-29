@@ -25,13 +25,13 @@ const data = {
   links: [
     {
       name: "platzi user",
-      url: "https://platzi.com/p/misael.gomez1623/",
+      url: "https://platzi.com/p/misael-gc/",
       color: "green",
       emoji: "🧑‍🚀",
     },
     {
       name: "sitio web",
-      url: "https://misael-gmez-cuautle.super.site/",
+      url: "https://misael-gomez-cuautle.super.site/",
       color: "yellow",
       emoji: "📖",
     },
@@ -49,7 +49,7 @@ const data = {
     },
     {
       name: "Instagram",
-      url: "https://twitter.com/MisaelG51069440",
+      url: "https://www.instagram.com/misael.gmz.ctl/",
       color: "purple",
       emoji: "📷",
     },
