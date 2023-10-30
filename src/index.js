@@ -5,10 +5,10 @@ const $img2 = document.getElementById('img2');
 const $text = document.getElementById('text')
 
 const data = {
-  name: "Misael Gómez",
+  name: "Misael Gómez Cuautle",
   nickname: "mgc",
-  tecnologias: '#JavaScript, #npm, #Python, #React',
-  description: "Soy un apasionado por la programación, continuamente estoy mejorando mis habilidades en el desarrollo web, me gusta compartir mis aprendizajes y crear proyectos en el área de finanzas y mis series favoritas",
+  tecnologias: '#HTML, #CSS, #JavaScript, #React, #MySQL, #PHP, #Bootstrap.',
+  description: "Soy un apasionado de la programación, actualmente me estoy preparando para convertirme en un desarrollador Full Stack",
   avatar: "https://pbs.twimg.com/profile_images/1534067141519069184/AyYQAI1b_400x400.jpg",
   social: [
     {
@@ -30,8 +30,8 @@ const data = {
       emoji: "🧑‍🚀",
     },
     {
-      name: "sitio web",
-      url: "https://misael-gomez-cuautle.super.site/",
+      name: "GitHub",
+      url: "https://github.com/Misael-GC",
       color: "yellow",
       emoji: "📖",
     },
@@ -45,7 +45,7 @@ const data = {
       name: "Twitter",
       url: "https://twitter.com/MisaelG51069440",
       color: "blue",
-      emoji: "🐦",
+      emoji: "🚀",
     },
     {
       name: "Instagram",
@@ -94,6 +94,7 @@ const main = () => {
   newItem.innerHTML = links;
   $links.appendChild(newItem);
 }
+
 
 nombre();
 imagen();
