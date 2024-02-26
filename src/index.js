@@ -7,8 +7,8 @@ const $text = document.getElementById('text')
 const data = {
   name: "Misael Gómez Cuautle",
   nickname: "mgc",
-  tecnologias: '#HTML, #CSS, #JavaScript, #React, #MySQL, #PHP, #Bootstrap.',
-  description: "Soy un apasionado de la programación, actualmente me estoy preparando para convertirme en un desarrollador Full Stack",
+  tecnologias: ' #Git-GitHub, #HTML, #CSS, #JavaScript, #React, #MySQL, #Bootstrap, #Mysql, #SQL Server y #Power BI',
+  description: "Soy un apasionado de la programación, con un sólido compromiso de especializarme en la industria TI",
   avatar: "https://pbs.twimg.com/profile_images/1534067141519069184/AyYQAI1b_400x400.jpg",
   social: [
     {
